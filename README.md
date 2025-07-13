@@ -3,7 +3,7 @@
 This is a sample repository created for learning and practicing Git and Git GUI tools.
 
 ## 📁 Project Structure
-
+```
 shubhnarang-mygitguirepo/
 ├── README.md # Project overview
 ├── fakewe.txt # Placeholder/test file
@@ -11,7 +11,7 @@ shubhnarang-mygitguirepo/
 ├── text.txt # Empty placeholder file
 └── src/
 └── hello.txt # Sample file with a greeting
-
+```
 
 ## 📄 Description
 
